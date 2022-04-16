@@ -27,7 +27,7 @@ public class stream {
         Stream<String> strStream = Arrays.stream(strArr);
         strStream.forEach(System.out::println);
 
-        /**
+        /**qs
          * integer -> stream
          */
         System.out.println("-------------integer -> stream---------------------");

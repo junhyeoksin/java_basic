@@ -30,4 +30,5 @@ public class mid {
             int c = sc.nextInt();
         System.out.println(mid(a,b,c));
     }
+
 }

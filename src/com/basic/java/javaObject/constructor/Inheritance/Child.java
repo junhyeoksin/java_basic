@@ -10,4 +10,10 @@ public class Child extends Parent{
     void childMethod(){}
     void childMethod(int i){} // 오버로딩
 
+    int x, y;
+    Child(int x, int y){
+        this.x = x;
+        this.y = y;
+
+    }
 }
